@@ -8,7 +8,7 @@ Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring
 
 ## Research Interest
 
-My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on Monetary Policy and Macroeconomics.
+My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on **Monetary Policy** and **Macroeconomics**.
 
 
 ## Education
@@ -27,30 +27,14 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 2. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
 - Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
   Considering about the reformation of grading system in colleges by model of game theory under the assumption of incomplete information repeated games.
+  
+## Publications
+Incoming
+
+## Projects
+- 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/EpiphaCy/PeidiChen.Github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
