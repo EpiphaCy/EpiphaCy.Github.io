@@ -1,17 +1,25 @@
-### About me
+## About me
 
 Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.
 
 
-### Research Interest
+## Research Interest
+
 My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on Monetary Policy and Macroeconomics.
 
-### Education
 
-**University of California, Santa Barbara**, 2021.1 - 2021.4, **Economics**
-**Fudan University**, 2019.9 - now, **Data Science(Minor)**
-**Fudan University**, 2018.9 - now, **B.A. Economics**
+## Education
 
+**University of California, Santa Barbara**, 2021.1 - 2021.4, **Economics**  
+**Fudan University**, 2019.9 - Now, **Data Science(Minor)**  
+**Fudan University**, 2018.9 - Now, **B.A. Economics**  
+
+## Research & Interns
+
+1. Research Assistant, 2019.12 - Now
+- Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
+  Monetary Policy, Macroeconomic Theroy
+  A working paper about the effect of expected shock of monetary policy ongoing.   
 ```markdown
 Syntax highlighted code block
 
