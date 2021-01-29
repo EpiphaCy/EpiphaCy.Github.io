@@ -1,3 +1,5 @@
+![photo](photo.jpg)
+
 # Peidi Chen
 * * *
 
