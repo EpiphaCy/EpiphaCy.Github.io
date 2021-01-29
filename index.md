@@ -26,7 +26,7 @@ My research interests mainly lie on Economics Research combined with Data Scienc
   Considering about the reformation of grading system in colleges by model of game theory under the assumption of incomplete information repeated games.
   
 ## Publications
-Incoming
+- Incoming
 
 ## Projects
 - [International Finance](人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)
