@@ -1,3 +1,6 @@
+# Peidi Chen
+* * *
+
 ## About me
 
 Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.
@@ -20,6 +23,10 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
   Monetary Policy, Macroeconomic Theory  
   A working paper about the effect of expected shock of monetary policy ongoing.   
+  
+2. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
+- Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
+  Considering about the reformation of grading system in colleges by model of game theory under the assumption of incomplete information repeated games.
 ```markdown
 Syntax highlighted code block
 
