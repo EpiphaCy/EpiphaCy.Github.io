@@ -18,7 +18,7 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 
 1. Research Assistant, 2019.12 - Now
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
-  Monetary Policy, Macroeconomic Theroy
+  Monetary Policy, Macroeconomic Theory  
   A working paper about the effect of expected shock of monetary policy ongoing.   
 ```markdown
 Syntax highlighted code block
