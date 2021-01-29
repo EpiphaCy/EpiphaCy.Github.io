@@ -32,7 +32,7 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 Incoming
 
 ## Projects
-- 
+- [International Finance](人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)
 ```markdown
 
 [Link](url) and ![Image](src)
