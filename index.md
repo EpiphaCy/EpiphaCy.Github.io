@@ -43,3 +43,4 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: 156+170+3.5), French(Basic), Cantonese(Basic)
 - Computer Office: Latex(Mastered), Office(Fluent), MySQL(Basic), Markdown(Basic)
 - Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
+- Others: Music Arranging&Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
