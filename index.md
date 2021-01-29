@@ -30,5 +30,16 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 
 ## Projects
 - [International Finance](人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)(Fudan University, 2020 Fall)
-- [CUMCM 2019]()
+- [CUMCM 2020](CUMCM2020_Peidi_Chen.pdf)
+- [CUMCM 2019](CUMCM2019_Peidi_Chen.pdf)
 
+## Honors
+- CUMCM, Second Prize, 2020
+- CUMCM, Third Prize, 2019
+- [Cargill Global Scholars](https://www.cargillglobalscholars.com/testimonials/), 2019-2020
+- Scholarship of Shanghai City, Second Prize, 2020
+
+## Ability
+- Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: 156+170+3.5), French(Basic), Cantonese(Basic)
+- Computer Office: Latex(Mastered), Office(Fluent), MySQL(Basic), Markdown(Basic)
+- Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
