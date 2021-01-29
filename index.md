@@ -1,6 +1,3 @@
-# Peidi Chen
-* * *
-
 ## About me
 
 Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.
@@ -33,8 +30,4 @@ Incoming
 
 ## Projects
 - [International Finance](人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)
-```markdown
-
-[Link](url) and ![Image](src)
-```
 
