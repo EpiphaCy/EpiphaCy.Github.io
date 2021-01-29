@@ -1,21 +1,6 @@
 # Peidi Chen
 * * *
 
-<table border="0">
-  <tr>
-    <td width="75%">
-      <h2>About me</h2>
-      <p>Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.</p>
-      <p>
-      <h2>Research Interest</h2>
-      <p>My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on <b>Monetary Policy<b> and <b>Macroeconomics<b>.</p>
-    </td>
-    <td width="25%">
-      <img src="/photo.jpg" width="100%">
-    </td>
-  </tr>
-</table>
-
 ## About me
 
 Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.
