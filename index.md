@@ -1,12 +1,16 @@
-## Welcome to GitHub Pages
+### About me
 
-You can use the [editor on GitHub](https://github.com/EpiphaCy/PeidiChen.Github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Research Interest
+My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on Monetary Policy and Macroeconomics.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
+
+**University of California, Santa Barbara**, 2021.1 - 2021.4, **Economics**
+**Fudan University**, 2019.9 - now, **Data Science(Minor)**
+**Fudan University**, 2018.9 - now, **B.A. Economics**
 
 ```markdown
 Syntax highlighted code block
