@@ -11,7 +11,7 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 ## Education
 
 **University of California, Santa Barbara**, 2021.1 - 2021.4, **Economics**  
-**Fudan University**, 2019.9 - Now, **Data Science(Minor)**  
+**Fudan University**, 2019.9 - Now, **Data Science(Second Major)**  
 **Fudan University**, 2018.9 - Now, **B.A. Economics**  
 
 ## Research & Interns
