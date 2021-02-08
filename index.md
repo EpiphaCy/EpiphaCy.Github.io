@@ -30,6 +30,7 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 
 ## Projects
 - [International Finance](人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)(Fudan University, 2020 Fall)
+- [MCM/ICM 2021](ICM2021_Peidi_Chen.pdf)
 - [CUMCM 2020](CUMCM2020_Peidi_Chen.pdf)
 - [CUMCM 2019](CUMCM2019_Peidi_Chen.pdf)
 
