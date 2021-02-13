@@ -29,10 +29,10 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - Incoming
 
 ## Projects
-- [International Finance](人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)(Fudan University, 2020 Fall)
-- [MCM/ICM 2021](ICM2021_Peidi_Chen.pdf)
-- [CUMCM 2020](CUMCM2020_Peidi_Chen.pdf)
-- [CUMCM 2019](CUMCM2019_Peidi_Chen.pdf)
+- [International Finance](projects/人民币汇率与中美贸易顺差——基于2005-2018年的分期实证研究.pdf)(Fudan University, 2020 Fall)
+- [MCM/ICM 2021](projects/ICM2021_Peidi_Chen.pdf)
+- [CUMCM 2020](projects/CUMCM2020_Peidi_Chen.pdf)
+- [CUMCM 2019](projects/CUMCM2019_Peidi_Chen.pdf)
 
 ## Honors
 - CUMCM, Second Prize, 2020
@@ -47,3 +47,5 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - Others: Music Arranging&Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
 ### CV / [Contact](contact.md)
+
+## [A Special gift for Valentine, 2021](Valentine/Valentine.html)
