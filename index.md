@@ -41,11 +41,11 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - Scholarship of Shanghai City, Second Prize, 2020
 
 ## Ability
-- Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: V156+Q170+AW3.5), French(Basic), Cantonese(Basic)
+- Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: V156+Q170+AW3.5), French(Basic)
 - Computer Office: Latex(Mastered), Office(Fluent), MySQL(Basic), Markdown(Basic)
 - Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
 - Others: Music Arranging&Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
-### CV / [Contact](contact.md)
+### [CV](personal/CV_Peidi Chen_2021.1.pdf) / [Contact](contact.md)
 
 ## [A Special gift for Valentine, 2021](Valentine/Valentine.html)
