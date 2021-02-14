@@ -46,6 +46,6 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
 - Others: Music Arranging&Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
-### [CV](personal/CV_Peidi Chen_2021.1.pdf) / [Contact](contact.md)
+### [CV](personal/CV_Peidi_Chen_2021_1.pdf) / [Contact](contact.md)
 
 ## [A Special gift for Valentine, 2021](Valentine/Valentine.html)
