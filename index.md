@@ -5,7 +5,7 @@ Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring
 
 ## Research Interest
 
-My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on **International Finance**， **Monetary Policy** and **Macroeconomics**.
+My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**.
 
 
 ## Education
