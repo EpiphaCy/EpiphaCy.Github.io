@@ -1,6 +1,6 @@
 ## About me
 
-Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career after my undergraduate degree.
+Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career as a PhD student after my graduation.
 
 
 ## Research Interest
