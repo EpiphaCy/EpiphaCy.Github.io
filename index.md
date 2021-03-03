@@ -1,11 +1,11 @@
 ## About me
 
-Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics.
+Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career after my undergraduate degree.
 
 
 ## Research Interest
 
-My research interests mainly lie on Economics Research combined with Data Science as well as political philosophy. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**.
+My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**.
 
 
 ## Education
@@ -19,7 +19,7 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 1. Research Assistant, 2019.12 - Now
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
   Monetary Policy, Macroeconomic Theory  
-  A working paper about the effect of expected shock of monetary policy ongoing.   
+  A working paper focusing on the macroeconomic implications of the unexpected component of the Fed's monetary policy is in progress.   
   
 2. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
 - Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
@@ -38,11 +38,11 @@ My research interests mainly lie on Economics Research combined with Data Scienc
 - CUMCM, Second Prize, 2020
 - CUMCM, Third Prize, 2019
 - [Cargill Global Scholars](https://www.cargillglobalscholars.com/testimonials/), 2019-2020
-- Scholarship of Shanghai City, Second Prize, 2020
+- Scholarship of Shanghai, Second Prize, 2020
 
 ## Ability
 - Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: V156+Q170+AW3.5), French(Basic)
-- Computer Office: Latex(Mastered), Office(Fluent), MySQL(Basic), Markdown(Basic)
+- Computer Office: Latex(Mastered), Office(Fluent), MySQL(Basic), Markdown(Basic), Git(Basic)
 - Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
 - Others: Music Arranging&Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
