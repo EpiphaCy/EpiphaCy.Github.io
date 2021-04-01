@@ -42,8 +42,9 @@ My research interests mainly lie on Economics and Finance research combined with
 ## Honors
 - CUMCM, Second Prize, 2020
 - CUMCM, Third Prize, 2019
-- [Cargill Global Scholars](https://www.cargillglobalscholars.com/testimonials/), 2019-2020
-- Scholarship of Shanghai, Second Prize, 2020
+- [Cargill Global Scholars](https://www.cargillglobalscholars.com/testimonials/), Cohort 7, 2019-2020
+- Scholarship of Shanghai, Second Prize, 2020  
+- WangDao New Media, Second Prize(Microfilm), 2021
 
 ## Ability
 - Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: V156+Q170+AW3.5), French(Basic)
