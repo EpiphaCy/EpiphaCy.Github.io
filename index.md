@@ -19,9 +19,14 @@ My research interests mainly lie on Economics and Finance research combined with
 1. Research Assistant, 2019.12 - Now
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
   Monetary Policy, Macroeconomic Theory  
-  A working paper focusing on the macroeconomic implications of the unexpected component of the Fed's monetary policy is in progress.   
+  A working paper focusing on the financial implications of the unexpected component of the Fed's monetary policy is in progress. 
   
-2. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
+2. Research Assistant, 2021.3 - Now
+- Advisor: Prof. Yang Liu, Business School, Hong Kong University, Hong Kong
+  International Finance
+  Working on the relationship between risk premia and capital control mainly by MATLAB, responsible for coding, debugging as well as replication of previous papers.
+  
+3. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
 - Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
   Considering about the reformation of grading system in colleges by model of game theory under the assumption of incomplete information repeated games.
   
@@ -46,4 +51,4 @@ My research interests mainly lie on Economics and Finance research combined with
 - Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
 - Others: Music Arranging&Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
-### [CV](personal/CV_Peidi_Chen_2021_3.pdf) / [Contact](personal/contact.md)
+### [CV](personal/CV_Peidi_Chen_2021_4.pdf) / [Contact](personal/contact.md)
