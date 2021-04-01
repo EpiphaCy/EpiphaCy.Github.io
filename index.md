@@ -22,8 +22,8 @@ My research interests mainly lie on Economics and Finance research combined with
   A working paper focusing on the financial implications of the unexpected component of the Fed's monetary policy is in progress. 
   
 2. Research Assistant, 2021.3 - Now
-- Advisor: Prof. Yang Liu, Business School, Hong Kong University, Hong Kong
-  International Finance
+- Advisor: Prof. Yang Liu, Business School, Hong Kong University, Hong Kong  
+  International Finance  
   Working on the relationship between risk premia and capital control mainly by MATLAB, responsible for coding, debugging as well as replication of previous papers.
   
 3. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
