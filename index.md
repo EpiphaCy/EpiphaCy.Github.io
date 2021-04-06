@@ -37,6 +37,7 @@ My research interests mainly lie on Economics and Finance research combined with
 - [International Finance](projects/International_Finance_2020Fall.pdf)(Fudan University, 2020 Fall)
 - [MCM/ICM 2021](projects/ICM2021_Peidi_Chen.pdf)
 - [CUMCM 2020](projects/CUMCM2020_Peidi_Chen.pdf)
+- [Xiyuan Programme](projects/30A2.pdf)
 - [CUMCM 2019](projects/CUMCM2019_Peidi_Chen.pdf)
 
 ## Honors
