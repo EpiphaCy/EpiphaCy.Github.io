@@ -27,7 +27,7 @@ My research interests mainly lie on Economics and Finance research combined with
   Working on topics about capital control and financial crises. Responsible for coding, debugging as well as replication of previous papers mainly by MATLAB and Stata.
   
 3. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
-- Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai
+- Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
   *Mechanism Design*  
   Considering about the reformation of grading system in colleges by optimization of students and teachers under the assumption of incomplete information. Further policy recommendations are provided under rigorous mathematical proof.
   
