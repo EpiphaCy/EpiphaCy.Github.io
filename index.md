@@ -42,6 +42,7 @@ My research interests mainly lie on Economics and Finance research combined with
 - [CUMCM 2019](projects/CUMCM2019_Peidi_Chen.pdf)
 
 ## Honors
+- [ICM, Outstanding Winner/AMS Award, 2021(The only Fudan team this year)](personal/ICM2021_Peidi_Chen.pdf)
 - CUMCM, Second Prize, 2020
 - CUMCM, Third Prize, 2019
 - [Cargill Global Scholars](https://www.cargillglobalscholars.com/testimonials/), Cohort 7, 2019-2020
