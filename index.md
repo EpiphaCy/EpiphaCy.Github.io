@@ -18,17 +18,18 @@ My research interests mainly lie on Economics and Finance research combined with
 
 1. Research Assistant, 2019.12 - Now
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
-  Monetary Policy, Macroeconomic Theory  
-  A working paper focusing on the financial implications of the unexpected component of the Fed's monetary policy is in progress. 
+  *Monetary Policy, Macroeconomic Theory*  
+  Working as a co-author on a paper focusing on the financial implications of the unexpected component of the Fed's monetary policy is in progress. Benchmark empirical results have been obtained, now responsible for the theoretical framework based on *rational inattention model*. 
   
 2. Research Assistant, 2021.3 - Now
 - Advisor: Prof. Yang Liu, Business School, Hong Kong University, Hong Kong  
-  International Finance  
-  Working on the relationship between risk premia and capital control mainly by MATLAB, responsible for coding, debugging as well as replication of previous papers.
+  *International Finance, Capitol Control*
+  Working on topics about capital control and financial crises. Responsible for coding, debugging as well as replication of previous papers mainly by MATLAB and Stata.
   
 3. Research Assistant, 2019.5 - 2020.4, *[Xiyuan Programme, FDUROP]*
-- Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
-  Considering about the reformation of grading system in colleges by model of game theory under the assumption of incomplete information repeated games.
+- Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai
+  *Mechanism Design*
+  Considering about the reformation of grading system in colleges by optimization of students and teachers under the assumption of incomplete information. Further policy recommendations are provided under rigorous mathematical proof.
   
 ## Publications
 - Incoming
