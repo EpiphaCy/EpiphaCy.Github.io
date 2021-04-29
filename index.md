@@ -35,8 +35,9 @@ My research interests mainly lie on Economics and Finance research combined with
 - Incoming
 
 ## Projects
-- [International Finance](projects/International_Finance_2020Fall.pdf)(Fudan University, 2020 Fall)
+- [Rational Inattention in Consumption Loan](projects/Cognitive Bias and Constraints in Consumption Loan Evidence from Ant Credit Pay.pdf)
 - [MCM/ICM 2021](projects/ICM2021_Peidi_Chen.pdf)
+- [International Finance](projects/International_Finance_2020Fall.pdf)(Fudan University, 2020 Fall)
 - [CUMCM 2020](projects/CUMCM2020_Peidi_Chen.pdf)
 - [Xiyuan Programme](projects/30A2.pdf)
 - [CUMCM 2019](projects/CUMCM2019_Peidi_Chen.pdf)
