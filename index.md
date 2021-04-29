@@ -9,7 +9,7 @@ My research interests mainly lie on Economics and Finance research combined with
 
 
 ## Education
-**HEC Paris**, 2021.6 - 2017.7, **School of Management(Summer Program)**
+**HEC Paris**, 2021.6 - 2017.7, **School of Management(Summer Program)**  
 **University of California, Santa Barbara**, 2021.1 - 2021.4, **Economics(Exchange)**  
 **Fudan University**, 2019.9 - Now, **Data Science(Second Major)**  
 **Fudan University**, 2018.9 - Now, **B.A. Economics**  
