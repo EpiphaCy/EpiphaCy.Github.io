@@ -40,8 +40,9 @@ My research interests mainly lie on Economics and Finance research combined with
 - Incoming
 
 ## Projects
+- [MCM/ICM 2021](projects/ICM2021_Peidi_Chen.pdf)  
+  Designed measures of influence and similarity based on *dynamic social network* structure as well as th e robustness check based on *graph convolutional network* algorithms. Further overcome the time-bias in Pagerank by introducing temporal measures of similarity and independently carried out the program implementation by Python.  
 - [Rational Inattention in Consumption Loan](projects/RI.pdf)
-- [MCM/ICM 2021](projects/ICM2021_Peidi_Chen.pdf)
 - [International Finance](projects/International_Finance_2020Fall.pdf)(Fudan University, 2020 Fall)
 - [CUMCM 2020](projects/CUMCM2020_Peidi_Chen.pdf)
 - [Xiyuan Programme](projects/30A2.pdf)
