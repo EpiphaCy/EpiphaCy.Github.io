@@ -1,11 +1,11 @@
 ## About me
 
-Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career as a PhD student after my graduation.
+Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career as a PhD student in Economics or Finance after my graduation.
 
 
 ## Research Interest
 
-My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**.
+My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**, and I hope to apply my skills in machine learning into economics research.
 
 
 ## Education
@@ -18,16 +18,21 @@ My research interests mainly lie on Economics and Finance research combined with
 
 1. Research Assistant, 2019.12 - Now
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
-  *Monetary Policy, Macroeconomic Theory*  
-  Working as a co-author on a paper focusing on the financial implications of the unexpected component of the Fed's monetary policy is in progress. Benchmark empirical results have been obtained, now responsible for the theoretical framework based on *rational inattention model*. 
+  *International Finance, Monetary Policy*  
+  Working as a co-author on a paper focusing on the financial implications of the anticipated component of the Fed's monetary policy is in progress. Benchmark empirical results have been obtained, now responsible for the theoretical framework based on *rational inattention model*. Another work concentrating on the price adjustment and monetary policy is in progress.   
   
 2. Research Assistant, 2021.3 - Now
 - Advisor: Prof. Yang Liu, Business School, Hong Kong University, Hong Kong  
   *International Finance, Capitol Control*  
-  Working on topics about capital control and financial crises. Responsible for coding, debugging as well as replication of previous papers mainly by MATLAB and Stata.
+  Working on topics about the correlation between capital control and financial crises. Responsible for coding, debugging as well as replication of previous papers mainly by MATLAB and Stata to advance projects.  
   
-3. Xiyuan Scholar, 2019.5 - 2020.4, *[FDUROP]*
-- Advisor: Prof. Fang Qin, School of Economics, Fudan University, Shanghai  
+3. Research Assistant, 2021.5 - Now
+- Advisor: Prof. Li Guo, School of Economics, Fudan University, Shanghai  
+  *Empirical Asset Pricing*  
+  Working on a project concentrating on the pricing basis of crypto-currency by diverse machine learning algorithms including PLS, Elastic Net and Neural Network etc. Responsible for algorithm design as well as program implementation.  
+  
+4. Xiyuan Scholar, 2019.5 - 2020.4, *[FDUROP]*
+- Advisor: Prof. Qin Fang, School of Economics, Fudan University, Shanghai  
   *Mechanism Design*  
   Considering about the reformation of grading system in colleges by optimization of students and teachers under the assumption of incomplete information. Further policy recommendations are provided under rigorous mathematical proof.
   
@@ -43,7 +48,7 @@ My research interests mainly lie on Economics and Finance research combined with
 - [CUMCM 2019](projects/CUMCM2019_Peidi_Chen.pdf)
 
 ## Honors
-- [ICM, Outstanding Winner/AMS Award, 2021(The only Fudan team this year)](personal/ICM2021_Peidi_Chen.pdf)
+- [ICM, Outstanding Winner/AMS Award, 2021](personal/ICM2021_Peidi_Chen.pdf)
 - CUMCM, Second Prize, 2020
 - CUMCM, Third Prize, 2019
 - [Cargill Global Scholars](https://www.cargillglobalscholars.com/testimonials/), Cohort 7, 2019-2020
