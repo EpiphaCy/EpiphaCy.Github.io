@@ -1,15 +1,15 @@
 ## About me
 
-Hello, I'm Peidi Chen, a third year undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career as a PhD student in Economics or Finance after my graduation.
+Hello, I'm Peidi Chen, a senior undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career as a PhD student in Economics or Finance after my graduation.
 
 
 ## Research Interest
 
-My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**, and I hope to apply my skills in machine learning into economics research.
+My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**, and I hope to apply my skills in data science into economics research.
 
 
 ## Education
-**HEC Paris**, 2021.6 - 2017.7, **School of Management(Summer Program)**  
+**HEC Paris**, 2021.6 - 2021.7, **School of Management(Summer Program)**  
 **University of California, Santa Barbara**, 2021.1 - 2021.4, **Economics(Exchange)**  
 **Fudan University**, 2019.9 - Now, **Data Science(Second Major)**  
 **Fudan University**, 2018.9 - Now, **B.A. Economics**  
@@ -62,4 +62,4 @@ My research interests mainly lie on Economics and Finance research combined with
 - Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
 - Others: Music Arranging & Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
-### [CV](personal/CV_Peidi_Chen_2021_5.pdf) / [Contact](personal/contact.md)
+### [CV](personal/CV_Peidi_Chen_2021_7.pdf) / [Contact](personal/contact.md)
