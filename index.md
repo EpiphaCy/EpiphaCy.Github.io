@@ -5,7 +5,7 @@ Hello, I'm Peidi Chen, a senior undergraduate from Fudan University majoring in 
 
 ## Research Interest
 
-My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Macroeconomics**, and I hope to apply my skills in data science into economics research.
+My research interests mainly lie on Economics and Finance research combined with Data Science. My current research focus is mainly on **International Finance**, **Monetary Policy** and **Asset Pricing**, and I hope to apply my skills in data science into research.
 
 
 ## Education
