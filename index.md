@@ -1,6 +1,6 @@
 ## About me
 
-Hello, I'm Peidi Chen, a senior undergraduate from Fudan University majoring in Economics. I plan to pursue my academic career as a PhD student in Economics or Finance after my graduation.
+Hello, I'm Peidi Chen, a senior undergraduate from Fudan University majoring in Economics. I'm about to be a PhD candidate in Finance in Hong Kong University since September, 2022.  
 
 
 ## Research Interest
