@@ -19,22 +19,22 @@ My research interests mainly lie on Economics and Finance research combined with
 1. Research Assistant, 2019.12 - Now
 - Advisor: Prof. Wenbin Wu, Fanhai International School of Finance, Fudan University, Shanghai  
   *International Finance, Monetary Policy*  
-  Working as a co-author on a paper focusing on the financial implications of the anticipated component of the Fed's monetary policy is in progress. Benchmark empirical results have been obtained, now responsible for the theoretical framework based on *rational inattention model*. Another work concentrating on the price adjustment and monetary policy is in progress.   
+  Working as a co-author on a paper focusing on the financial implications of the information effect of Fed's monetary policy.   
   
 2. Research Assistant, 2021.3 - Now
-- Advisor: Prof. Yang Liu, Business School, Hong Kong University, Hong Kong  
-  *International Finance, Capitol Control*  
-  Working on topics about the correlation between capital control and financial crises. Responsible for coding, debugging as well as replication of previous papers mainly by MATLAB and Stata to advance projects.  
+- Advisor: Prof. Yang Liu & Xiang Fang, Business School, Hong Kong University, Hong Kong  
+  *International Finance, Asset Pricing*  
+  Participated in various research topics including CDS, financial crisis and the application of NLP in finance. Deeply involved in a project about *Capital Control* and mastered the sorting approach in finance studies.
   
 3. Research Assistant, 2021.5 - Now
 - Advisor: Prof. Li Guo, School of Economics, Fudan University, Shanghai  
   *Empirical Asset Pricing*  
-  Working on a project concentrating on the pricing basis of crypto-currency by diverse machine learning algorithms including PLS, Elastic Net and Neural Network etc. Responsible for algorithm design as well as program implementation.  
+  Working on a project concentrating on the pricing basis of crypto-currency by diverse machine learning algorithms including PLS, Random Forest and Neural Network etc. Responsible for algorithm design as well as program implementation.  
   
 4. Xiyuan Scholar, 2019.5 - 2020.4, *[FDUROP]*
 - Advisor: Prof. Qin Fang, School of Economics, Fudan University, Shanghai  
   *Mechanism Design*  
-  Considering about the reformation of grading system in colleges by optimization of students and teachers under the assumption of incomplete information. Further policy recommendations are provided under rigorous mathematical proof.
+  Considering about the reformation of grading system in colleges by the optimization of students and teachers' choice under the assumption of incomplete information. Further policy recommendations are provided under mathematical proof.
   
 ## Publications
 - Incoming
@@ -58,8 +58,8 @@ My research interests mainly lie on Economics and Finance research combined with
 
 ## Ability
 - Language: Chinese(Native Speaker), English(Fluent, **IELTS**: 7.5, **GRE**: V156+Q170+AW3.5), French(Basic)
-- Computer Office: Latex(Mastered), Office(Fluent), MySQL(Basic), Markdown(Basic), Git(Basic)
-- Computer Programming: Python(Proficient), Stata(Mastered), Tensorflow(Fluent), MATLAB&Dynare(Fluent), R(Basic)
+- Computer Office: Latex, Office, Markdown, Git
+- Computer Programming: Python, Stata&Tensorflow, MATLAB&Dynare, R
 - Others: Music Arranging & Mixing. [Link to my radio station](https://music.163.com/#/djradio?id=793067430).
 
 ### [CV](personal/CV_Peidi_Chen_2021_7.pdf) / [Contact](personal/contact.md)
