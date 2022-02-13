@@ -36,6 +36,10 @@ My research interests mainly lie on Economics and Finance research combined with
   *Mechanism Design*  
   Considering about the reformation of grading system in colleges by the optimization of students and teachers' choice under the assumption of incomplete information. Further policy recommendations are provided under mathematical proof.
   
+## Teaching Assistant
+1. International Economics, ECON130243.01, 2022.2 - 2022.6
+- Lecturer: Prof. Yang Zhou, School of Economics, Fudan University, Shanghai 
+  
 ## Publications
 - Incoming
 
